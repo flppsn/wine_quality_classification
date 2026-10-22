@@ -1,0 +1,5 @@
+modelo,acurácia,precisão,recall,f1,auc
+Baseline,0.868,0.0,0.0,0.0,0.5
+Regressão Logística,0.897,0.667,0.444,0.533,0.886
+KNN,0.877,0.556,0.37,0.444,0.854
+Random Forest,0.902,0.733,0.407,0.524,0.91

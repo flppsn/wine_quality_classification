@@ -1,0 +1,7 @@
+,valor
+precisão,0.636
+recall,0.519
+f0.5,0.609
+auc,0.886
+vinhos indicados como alta qualidade,22
+acertos,14
